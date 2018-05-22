@@ -1,0 +1,1 @@
+udo cat log | less
