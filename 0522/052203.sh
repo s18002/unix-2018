@@ -1,1 +1,1 @@
-udo cat log | tail -n 5
+sudo cat log | tail -n 5
