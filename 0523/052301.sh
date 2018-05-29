@@ -1,1 +1,1 @@
-du -b /bin/* | wc -l
+du -b ~/* | wc -l
