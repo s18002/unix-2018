@@ -1,1 +1,1 @@
-sudo cat log | tail -n 5
+sudo cat log | head -n 5
