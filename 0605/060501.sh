@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#dir
+#ディレクトリ
 find ~ -type d | wc -l
 
-#file
+#ファイル
 find ~ -type f | wc -l
